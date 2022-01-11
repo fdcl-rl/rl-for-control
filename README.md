@@ -1,5 +1,8 @@
-# rl-for-control
-This repo is to discuss the implementation of RL methods for control problems.
+# Reinforcement Learning Methods for Control Problems
+
+This repo is to discuss the implementation of RL methods for control problems both theoretically and experimentally.
+
+The purpose is to write one large literature survey by organizing and classifying RL methods for (continuous-time) control problems.
 
 ## Notion page
 
